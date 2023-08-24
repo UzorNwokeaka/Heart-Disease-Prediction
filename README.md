@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
-**Project description:***
+**Project description:**
 
 Peterside Hospital is a private hospital located in Lagos, Nigeria. It was founded in 2000 by a renowned Nigerian Physician. The hospital provides a wide range of medical services, including general medicine, surgery, paediatrics, obstetrics and gynaecology, cardiology, neurology, and oncology.
 The Hospital is known for its state-of-the-art facilities, modern equipment, and highly skilled medical professionals. The hospital has a team of over 300 medical personnel, including doctors, nurses, and other healthcare professionals, who are trained locally and internationally.
