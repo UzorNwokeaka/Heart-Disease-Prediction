@@ -13,6 +13,6 @@ Build a heart disease prediction machine learning model which accurately predict
 **Data Dictionary:**
 
 The heart CSV dataset contains 303 records and 14 columns, including the target variable. The features include age, sex, chest pain type (cp), resting blood pressure (trestbps), serum cholesterol (chol), fasting blood sugar (fbs), resting electrocardiographic results (restecg),
-maximum heart rate achieved (thalach), exercise-induced angina (exang), ST depression induced by exercise relative to rest (oldpeak), the slope of the peak exercise ST segment (slope), number of major vessels colored by flourosopy (ca), and thalassemia (thal.
+maximum heart rate achieved (thalach), exercise-induced angina (exang), ST depression induced by exercise relative to rest (oldpeak), the slope of the peak exercise ST segment (slope), number of major vessels colored by flourosopy (ca), and thalassemia (thal).
 
 
