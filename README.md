@@ -8,7 +8,7 @@ The hospital has several specialized clinics, including adiabetes clinic, a fert
 
 **Objective:**
 
-Build a heart disease prediction machine learning model which accurately predicts the likelihood of a person having a heart disease based on certain features.
+Build a heart disease prediction machine learning model which accurately predicts the likelihood of a person having a heart disease based on certain features
 
 **Data Dictionary:**
 
